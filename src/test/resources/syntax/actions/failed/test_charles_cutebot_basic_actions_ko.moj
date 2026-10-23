@@ -1,0 +1,13 @@
+🔊
+Test - actions basiques du cutebot - KO
+Author : Charles Eykerman
+🔈
+
+📦 "test.map"
+
+🌀🏠(){
+    📻(📻); 📢 ajout d'un appel de fonciton en paramètre
+    🚨(20); 📢 ajout d'une valeure entière en paramètre
+    ✋();
+    ↩️🌀;
+}

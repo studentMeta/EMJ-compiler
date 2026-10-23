@@ -1,0 +1,27 @@
+📦 "author Timothy Lefebvre"
+
+📢 test des loop while & for OK
+🌀 🏠() {
+    📢 test des comparaisons
+
+    🤔 ([💀] <= [💀]){}
+        🤨 {👇;}
+
+    🤔 ([💀] >= [💀]){}
+        🤨 {👇;}
+
+    🤔 ([💀] == [💀]){}
+        🤨 {👇;}
+
+    🤔 ([💀] < [💀]){}
+        🤨 {👇;}
+
+    🤔 ([💀] > [💀]){}
+        🤨 {👇;}
+
+    🤔 ([💀] != [💀]){}
+        🤨 {👇;}
+
+    📢 retour, fin de fonction
+    ↩️🌀;
+}

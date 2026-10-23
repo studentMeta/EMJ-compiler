@@ -1,0 +1,65 @@
+🔊
+Test general - TOUTES LES STRUCTURES
+🔈
+
+📦 "test.map"
+
+🌀🏠(){
+
+    📢 Test des Declarations
+    🔢 [🐶] = 10;
+    🔢 [🐼] = 5;
+    🔟 [🔑] = [🚀]([🐶], [🐼]);
+    🔢 [🍎];
+
+    📢 Test des Tuples
+    👥(🔢) [🍕] = (100, 50);
+    [🍕]0️⃣ = 60;
+    [🍕]1️⃣ = 30;
+
+    📢 Test des Operations Mathematiques
+    🔢 [🍔] = ([🐶] * 2) + (10 / 2) - (-5);
+
+    📢 Test de la boucle WHILE
+    ♾️ ([🔑] == ✅){
+        🚨();
+        [🐼] = [🐼] + 1;
+        [🔑] = [🚀]([🐶], [🐼]);
+    }
+
+    📢 Test de la boucle FOR et des actions
+    🔁 (3) {
+        ⬆️([🍕]0️⃣);
+        ⬇️([🍕]1️⃣);
+        ➡️(15);
+        ⬅️(15);
+    }
+
+    📢 Test des Conditions avec l operateur AND
+    🤔 ([🍔] >= 20 🖇️ [🔑] != ✅){
+        🃏(2);
+    }🤨{
+        ✋();
+    }
+
+    📢 Test appel isole
+    [🚁]();
+
+    ↩️ 🌀;
+}
+
+🔟 [🚀] (🔢 [🌲], 🔢 [⚡]){
+    🔟 [🦄] = ❌;
+    🤔 ([🌲] > [⚡]){
+        [🦄] = ✅;
+    }🤨{
+        👇;
+    }
+    ↩️ [🦄];
+}
+
+🌀 [🚁] (){
+    🚨();
+    📻();
+    ↩️ 🌀;
+}

@@ -1,0 +1,13 @@
+🔊
+Test - actions basiques du cutebot - OK
+Author : Charles Eykerman
+🔈
+
+📦 "test.map"
+
+🌀🏠(){
+    📻(); 📢 Allume le son
+    🚨(); 📢 Allume les lumières
+    ✋(); 📢 Arrête le voleur
+    ↩️🌀;
+}

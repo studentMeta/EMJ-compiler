@@ -1,0 +1,46 @@
+🔊
+Test général - OK
+Author : Charles Eykerman
+🔈
+
+📢 peuvent être utilisée :
+📢 🐶   🐱   🐼   🐢   🦄   🐸
+📢 🍔   🍎   🍕   ☕   🍣   🍺
+📢 💻   📱   ⏰   💡   🔑
+📢 ☀️   🌙   ⚡   🌲   ⭐
+📢 🚀   🚁   🚲   🚂
+📢 😀   😎   🤯   👻
+
+📦 "test.map"
+
+🌀🏠(){
+
+    🔢[🐶] = 10;
+    🔢[🐼] = 5;
+    🔟[🔑] = [🚀]([🐶],[🐼]);
+
+    ♾️ ([🔑] == ✅){
+        🚨();
+        [🐼] = [🐼]+1;
+        [🔑] = [🚀]([🐶],[🐼]);
+    }
+
+    ↩️🌀;
+
+}
+
+
+📢 Nouvelle fonction, vérifie si param1 > param2 (renvoie true si oui, false si non)
+
+🔟[🚀](🔢[🌲],🔢[⚡]){
+    🔟[🦄] = ❌;
+    🤔 ([🌲]>[⚡]){
+        [🦄] = ✅;
+    }🤨{
+        👇;
+    }
+    ↩️[🦄];
+
+
+}
+

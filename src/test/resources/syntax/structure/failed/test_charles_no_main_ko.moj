@@ -1,0 +1,24 @@
+🔊
+Test général - OK
+Author : Charles Eykerman
+🔈
+
+
+
+📦 "test.map"
+
+
+📢 Nouvelle fonction, vérifie si param1 > param2 (renvoie true si oui, false si non)
+
+🔟[🚀](🔢[🌲],🔢[⚡]){
+    🔟[🦄] = ❌;
+    🤔 ([🌲]>[⚡]){
+        [🦄] = ✅;
+    }🤨{
+        👇;
+    }
+    ↩️[🦄];
+
+
+}
+

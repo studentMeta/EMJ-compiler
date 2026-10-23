@@ -1,0 +1,17 @@
+🔊
+Test - actions avec paramètres du cutebot - KO
+Author : Charles Eykerman
+🔈
+
+📦 "test.map"
+
+🌀🏠(){
+    🔢[🏃] = 2;
+
+    ⬆️([🏃][🏃]); 📢 deux paramètres juxtaposés
+    ⬇️(1 + 4, 0); 📢 deux paramètres au lieu d'un
+    ➡️(); 📢 pas de paramètre
+    🃏(+1); 📢 ajout d'un caractère + dans le paramètre
+
+    ↩️🌀;
+}

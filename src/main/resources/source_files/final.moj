@@ -1,0 +1,74 @@
+🔊
+Test final avec méthodes auxiliaires, tuples, conditions et boucle
+🔈
+
+📦 "final.map"
+
+🌀 🏠 () {
+
+    📢 Déclarations des variables (int, bool, tuple)
+    🔢 [⏱️];
+    🔟 [🏁];
+    👥(🔢) [📍];
+
+    📢 Assignation des variables
+    [⏱️] = 0;
+    [🏁] = ❌;
+    [📍] = (2, 4);
+
+    📢 Mouvements avec les valeurs du tuple
+    ➡️([📍]1️⃣);
+    ⬇️([📍]1️⃣);
+    ➡️([📍]0️⃣);
+    ⬇️([📍]0️⃣);
+    ⬅️([📍]1️⃣);
+    ⬆️([📍]1️⃣);
+    ⬅️([📍]0️⃣);
+
+    📢 Boucle while
+    ♾️ ([⏱️] < 6) {
+        ⬇️(1);
+        [⏱️] = [⏱️] + 1;
+    }
+
+    📢 Appel de fonction auxiliaire
+    [🏁] = [🚀](8); 📢 Appel de la fonction
+
+	📢 Boucle for
+    🔁 (8) {
+        ➡️(1); 📢 Sprint pas à pas
+    }
+
+    📢 If
+    🤔 ([🏁] == ✅) {
+        🚨();
+    } 🤨 {
+        👇;
+    }
+
+
+    📢 Derniers mouvements
+    ⬆️(6);
+    ⬅️([📍]0️⃣);
+    ⬆️([📍]0️⃣);
+    ➡️(3);
+
+    📢 Actions prédéfinies d'arrêt du cutebot, de mise en marche de la sirène et de l'arrestation du voleur
+    ✋();
+    📻();
+    🃏(2);
+
+    ↩️ 🌀;
+}
+
+📢 3. Fonction auxiliaire qui gère les longs sprints
+🔟 [🚀] (🔢 [📏]){
+
+    🤔 ([📏] >= 5) {
+        🚨();
+    } 🤨 {
+        👇;
+    }
+
+    ↩️ ✅;
+}

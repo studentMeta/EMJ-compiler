@@ -1,0 +1,17 @@
+🔊
+Test - actions avec paramètres du cutebot - OK
+Author : Charles Eykerman
+🔈
+
+📦 "test.map"
+
+🌀🏠(){
+    🔢[🏃] = 2;
+
+    ⬆️(3); 📢 Avance de 3 cases
+    ⬇️(1 + 4); 📢 Recule (avec une expression calculée)
+    ➡️([🏃]); 📢 Tourne à droite (avec une variable)
+    🃏(5-[🏃]); 📢 Mode crazy pendant 5 secondes (avec une expression calculé qui contient une variable)
+
+    ↩️🌀;
+}

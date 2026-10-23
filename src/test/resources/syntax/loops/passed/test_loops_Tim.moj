@@ -1,0 +1,20 @@
+📦 "author Timothy Lefebvre"
+
+📢 test des loop while & for OK
+🌀 🏠() {
+
+    📢 FOR loop
+    🔁 (10) {
+        🚨();
+        ✋();
+    }
+
+    📢 WHILE loop
+    ♾️ (10 <= 20) {
+        🚨();
+        ✋();
+     }
+
+    📢 retour, fin de fonction
+    ↩️🌀;
+}

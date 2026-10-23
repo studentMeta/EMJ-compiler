@@ -1,0 +1,32 @@
+🔊
+Fichier : cutebot.moj
+Tentative d'arrêter le voleur sur base du fichier test.map dont la résolution est :
+2 vers Est
+2 vers Sud
+2 vers Est
+2 vers Sud
+4 vers Ouest
+1 vers Nord
+🔈
+
+📦 "test.map"
+
+🌀 🏠 () {
+
+    📢 Déplacement avec un boucle pour la première séquence de 4 mouvements
+    🔁 (2) {
+            ➡️(2);
+            ⬇️(2);
+        }
+
+    📢 Dernier déplacements simples pour atteindre le voleur
+    ⬅️(4);
+    ⬆️(1);
+
+
+    📢 Lancement d'arrest()
+    ✋();
+
+
+    ↩️ 🌀;
+}

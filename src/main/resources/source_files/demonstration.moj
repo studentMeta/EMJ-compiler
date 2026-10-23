@@ -1,0 +1,62 @@
+🔊
+Démonstration finale du projet avec conditions, boucles, appel de fonction et actions prédéfinies
+🔈
+
+📦 "demonstration.map"
+
+🌀 🏠 () {
+
+    📢 Déclarations et assignations de variables
+    🔢 [⏱️];
+    🔟 [🏁];
+    [⏱️] = 0;
+
+    📢 Instructions prédéfinies de mouvements simples
+    ➡️(2);
+    ⬇️(2);
+    ➡️(2);
+
+    📢 Boucle while
+    ♾️ ([⏱️] < 3) {
+        ⬇️(1);
+        [⏱️] = [⏱️] + 1;
+    }
+
+    📻(); 📢 Fonction prédéfinie : sirène on/off
+
+    📢 Boucle for
+    🔁 (4) {
+        ⬅️(1);
+    }
+
+    📻(); 📢 Fonction prédéfinie : sirène on/off
+
+    🚨();   📢 Fonction prédéfinie : gyrophares on/off
+    ⬆️(2);
+
+    📢 Appel de fonction externe
+    [🏁] = [🔍](1);
+
+    📢 Condition if
+    🤔 ([🏁] == ✅) {
+        ✋(); 📢 Fonction prédéfinie : arrestation
+    } 🤨 {
+        👇;
+    }
+
+    ↩️ 🌀;
+}
+
+📢 Fonction externe
+🔟 [🔍] (🔢 [🔐]) {
+
+    🔟 [📝];
+
+    🤔 ([🔐] == 1) {
+        [📝] = ✅;
+    } 🤨 {
+        [📝] = ❌;
+    }
+
+    ↩️ [📝];
+}

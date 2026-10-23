@@ -1,0 +1,28 @@
+📢 Test issus des consignes, copier-collé pour tester language
+
+📦 "test.map" 📢 On importe la carte de jeu
+
+🔊
+Fonction main du programme, lancée automatiquement
+🔈
+
+🌀 🏠(){
+  🔢 [🐈] = [🐸](4, 6 + (8 / 2)); 📢 Appel de la fonction grenouille et on stocke son return dans la variable chat
+
+  📢 Si la variable chat est inférieure ou égale à 5 et strictement supérieure à 0, on allume les lumières du robot et on arrête le voleur, sinon on skip
+  🤔([🐈] <= 5 🖇️ [🐈] > 0){
+    🚨();
+    ✋();
+  }
+  🤨{
+    👇;
+  }
+  ↩️ 🌀; 📢 La fonction main return toujours void
+}
+
+📢 Autre fonction qui prend en paramètre 2 entiers et qui renvoie leur
+somme
+🔢 [🐸](🔢[🦄], 🔢[🐕]){
+  🔢 [🔥] = [🦄] + [🐕];
+  ↩️ [🔥];
+}

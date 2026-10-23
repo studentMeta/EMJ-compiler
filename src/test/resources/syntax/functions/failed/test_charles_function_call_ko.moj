@@ -1,0 +1,26 @@
+🔊
+Test - function call - KO
+Author : Charles Eykerman
+🔈
+
+📢 peuvent être utilisée :
+📢 🐶   🐱   🐼   🐢   🦄   🐸
+📢 🍔   🍎   🍕   ☕   🍣   🍺
+📢 💻   📱   ⏰   💡   🔑
+📢 ☀️   🌙   ⚡   🌲   ⭐
+📢 🚀   🚁   🚲   🚂
+📢 😀   😎   🤯   👻
+
+📦 "test.map"
+
+
+🌀🏠(){
+    [🚀][🚀](); 📢 dédoublemnt de l'appel de fonction
+    ↩️🌀;
+
+}
+
+
+🌀[🚀](){
+    ↩️🌀;
+}

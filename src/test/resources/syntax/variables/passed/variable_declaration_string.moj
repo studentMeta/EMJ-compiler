@@ -1,0 +1,9 @@
+📦 "test.map"
+🌀 🏠() {
+    🔡 [▶️];
+    🔡 [▶️] = "HelloWorld";
+    🔡 [▶️] = "HelloWorld123456789";
+    🔡 [▶️] = "Hello World";
+    🔡 [▶️] = "Hello World 1234567890";
+    ↩️ 🌀;
+}

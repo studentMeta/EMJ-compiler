@@ -1,0 +1,13 @@
+📦 "author Timothy Lefebvre"
+
+📢 test des assignations standard
+🌀 🏠() {
+
+    📢 Assignation classique
+    🔢 [💰] = 100;
+    🔢 [📉] = 50;
+    🔟 [💀] = ❌;
+
+    📢 retour, fin de fonction
+    ↩️🌀;
+}
